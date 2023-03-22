@@ -1,1 +1,2 @@
-# Pokemon
+Inha Univ
+Pokemon Project
